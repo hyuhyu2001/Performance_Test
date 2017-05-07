@@ -1,0 +1,16 @@
+﻿type=user
+count=10
+speed=1.0
+start data >>
+
+LaunchActivity(com.cloudy.linglingbang,com.cloudy.linglingbang/com.cloudy.linglingbang.activity.HomeActivity)
+UserWait(2000)
+DispatchPointer(10,10,0,500,100,1,1,-1,1,1,0,0)
+DispatchPointer(10,10,1,250,100,1,1,-1,1,1,0,0)
+DispatchString(310)
+UserWait(1000)
+DispatchPress(66)
+UserWait(1000)
+DispatchPointer(10,10,0,1000,100,1,1,-1,1,1,0,0)
+DispatchPointer(10,10,1,250,100,1,1,-1,1,1,0,0)
+UserWait(6000)
