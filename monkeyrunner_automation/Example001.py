@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @author:     jinzj
-@desc:实现在搜索框中输入查询词， 并截图
+@desc:实现在搜索框中输入查询词，并截图
 eclipse中编写的python脚本是无法直接执行的，只能在命令行下执行，因为Android SDK并未提供windows环境下的解释器，如果在Linux环境下是可以直接在eclips中运行脚本的
 """
 from com.android.monkeyrunner import MonkeyRunner,MokneyDevice,MonkeyImage
